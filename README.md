@@ -1,0 +1,2 @@
+# Amazonreviews_sentimentanalysis
+This notebook selects dataset “Amazon Reviews” from Kaggle and would like to do a sentimental analysis about the Amazon reviews by Python. And we also detect the positive and negative feedback and visualize the contents by word cloud and by different plottings and predict the ratings from the reviews by applying Count and TF-IDF Vectorizers on reviews and using some classification models like SVM,RandomForest,GradientBoosting and then compare the accuracy of different machine learning algorithms
